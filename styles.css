@@ -286,9 +286,32 @@
         font-size: 0.6rem;
         font-family: 'Playfair Display', serif;
     }
+
+    .quote {
+        font-size: .75rem;
+    }
+    
+    .contentcard {
+        display: inline-block;
+        text-align: center;
+        margin: 1%;
+        padding: 1%;
+        color: black;
+        justify-content: center;
+    }
+
+    .cardbutton { 
+        height: 27px;
+        width: 120px;
+        flex-direction: row;
+        border: 2px solid black;
+        border-style: solid;
+        font-size: 14px;
+        align-content: center;
+    }     
     
     footer {
         background-color: #2b2b28;
-        grid-row: 4/5;
+        grid-row: 5;
         grid-column: 1;
     } 
