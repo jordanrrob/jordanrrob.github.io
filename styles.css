@@ -8,6 +8,7 @@
     /* FONT FOR: BOLD/BIG/TITLES font-family: 'Montserrat', sans-serif; */
     font-family: 'Playfair Display', serif;
     font-size: 30px;
+    background-color: #fff3e2
     }
     
     .grid-container {
@@ -288,7 +289,7 @@
     }
 
     .quote {
-        font-size: .75rem;
+        font-size: 1rem;
     }
     
     .contentcard {
