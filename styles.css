@@ -342,7 +342,8 @@
     .aboutparagraph {
         clear: right;
         font-size: 2vmax;
-        padding: 5%;
+        padding-left: 5%;
+        padding-top: 5%;
     }
 
     footer {
