@@ -273,9 +273,9 @@
 
     .aboutparagraph {
     clear: right;
-    font-size: 2.5vmax;
-    padding-top: 7%;
-    padding-left: 7%;
+    font-size: 2vmax;
+    padding-top: 2%;
+    padding-left: 2%;
     }
 
 @media screen and (max-width: 450px) {
