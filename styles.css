@@ -263,10 +263,12 @@
     float: left;
     margin: 10px 1px;
     border: 2px solid black;
-    min-width: 30%;
+    /* min-width: 30%;
     min-height: 30%;
     max-width: 363px;
-    max-height: 410px;
+    max-height: 410px; */
+    max-width: 100%;
+    height: auto;
     }
 
     .aboutparagraph {
