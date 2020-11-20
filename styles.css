@@ -340,7 +340,7 @@
     }
 
     img {
-        float: left;
+        /* float: left; */
         margin: 10px 1px;
         border: 2px solid black;
         min-width: 20%;
@@ -350,7 +350,7 @@
     }
 
     .aboutparagraph {
-        clear: right;
+        /* clear: right; */
         font-size: 2vmax;
         padding-left: 5%;
         padding-top: 5%;
