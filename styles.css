@@ -148,8 +148,8 @@
     .quote {
     font-size: 1.2rem;
     padding-top: 5%;
-    /* width: 80%;
-    margin: 0 auto; */
+    width: 80%;
+    margin: 0 auto; 
     }
 
     .contentcard {
@@ -273,6 +273,7 @@
     clear: right;
     font-size: 2vmax;
     padding: 5%;
+    
     }
 
 @media screen and (max-width: 450px) {
