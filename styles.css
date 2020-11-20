@@ -276,7 +276,7 @@
     padding-left: 5%;
     }
 
-@media screen and (max-width: 575px) {
+@media screen and (max-width: 450px) {
     .menu {
         display: none;
     } 
